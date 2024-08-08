@@ -1,0 +1,34 @@
+{
+  "operationList": [
+    {
+      "name": "name",
+      "money": "money",
+      "theme": "theme"
+    },
+    {
+      "name": "Jack",
+      "money": "115",
+      "theme": "Averell"
+    },
+    {
+      "name": "Joe",
+      "money": "105",
+      "theme": "Joe"
+    },
+    {
+      "name": "William",
+      "money": "105",
+      "theme": "Averell"
+    },
+    {
+      "name": "Averell",
+      "money": "80",
+      "theme": "Rantanplan"
+    },
+    {
+      "name": "Lucky",
+      "money": "120",
+      "theme": "Daltons"
+    }
+  ]
+}
